@@ -122,4 +122,4 @@ B.Tech – Computer Science and Engineering
 **Interests:** Data Analysis | SQL | Python | Power BI
 
 - GitHub: [Sarika-21](https://github.com/Sarika-21)
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/sarika-kamala/)
+- LinkedIn: [sarika-kamala](https://www.linkedin.com/in/sarika-kamala/)
