@@ -120,12 +120,12 @@ The project includes approximately 25 SQL analysis queries across six business a
 
 ### Analysis Results
 
-1. [Customer Insights](Results/Customer_insights/)
-2. [Product Performance](Results/Product_performance/)
-3. [Sales and Order Trends](Results/Sales_Order_trends/)
-4. [Supplier Contribution](Results/Supplier_contribution/)
-5. [Employee Performance](Results/Employee_performance/)
-6. [Order Details Analysis](Results/Order_details_Analysis/)
+1. [Customer Insights](Results/1.Customer_insights/)
+2. [Product Performance](Results/2.Product_performance/)
+3. [Sales and Order Trends](Results/3.Sales_Order_trends/)
+4. [Supplier Contribution](Results/4.Supplier_contribution/)
+5. [Employee Performance](Results/5.Employee_performance/)
+6. [Order Details Analysis](Results/6.Order_details_Analysis/)
 
 Each folder contains screenshots of the executed SQL queries and their corresponding output results.
 ## 👩‍💻 Author
