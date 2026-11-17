@@ -114,6 +114,20 @@ Performed SQL-based analysis across six major business areas.
 6. Execute the analysis queries.
 7. Review the query results.
 
+## 📸 Query Results & Screenshots
+
+The project includes approximately 25 SQL analysis queries across six business areas. The corresponding MySQL Workbench output screenshots are organised into separate folders for easy navigation.
+
+### Analysis Results
+
+1. [Customer Insights](Results/Customer_insights/)
+2. [Product Performance](Results/Product_performance/)
+3. [Sales and Order Trends](Results/Sales_Order_trends/)
+4. [Supplier Contribution](Results/Supplier_contribution/)
+5. [Employee Performance](Results/Employee_performance/)
+6. [Order Details Analysis](Results/Order_details_Analysis/)
+
+Each folder contains screenshots of the executed SQL queries and their corresponding output results.
 ## 👩‍💻 Author
 **Sarika Kamala**
 
