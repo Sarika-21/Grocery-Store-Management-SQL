@@ -41,12 +41,12 @@ The database consists of seven interrelated tables:
 
 The ER diagram represents the relationships between the seven database tables, including their primary keys and foreign keys.
 
-![Grocery Store Management ER Diagram](ER_diagram.png)
+![Grocery Store Management ER Diagram](ER_Diagram.png)
 
 ## 🔄 Project Workflow
 
 ### 1. Database Creation
-- Created the `GROCERY_STORE` database.
+- Created the `GROCERYSTORE` database.
 - Designed seven relational tables.
 - Defined primary keys and foreign key constraints.
 - Established relationships between tables.
@@ -108,7 +108,7 @@ Performed SQL-based analysis across six major business areas.
 
 1. Install MySQL Server and MySQL Workbench.
 2. Clone or download this repository.
-3. Create the `GROCERY_STORE` database.
+3. Create the `GROCERYSTORE` database.
 4. Create the seven tables using the SQL script.
 5. Import the datasets into their respective tables.
 6. Execute the analysis queries.
